@@ -1,0 +1,6 @@
+No. of Sink Nodes : 66175
+Proportion of Sink Nodes : 0.3600165387272797
+Nodes with no inlinks : 14350
+Proportion of pages with no inlinks : 0.07806932120493333
+No. of pages with page rank less than initial Page rank : 145737
+Proportion of pages with page rank less than initial page rank : 0.7928633215639977

@@ -1,0 +1,62 @@
+ANALYSIS FOR RESULT OBTAINED ON DEVELOPMENT FILES:
+
+1. Multinomial Model:
+- Takes into consideration term frequencies for document ranking
+- Assumes that a term occurs zero or more time
+- Robust model and gives accurate classification results on large training data.
+
+2. Multiple Bernoulli Model:
+- Similar to the Binary Independence Model
+- Assumes that a term either "occurs" or "does not occur"
+- Easy to implement on relatively small training data. This is because it is highly likely that a term
+  does not occur in small texts more frequently. 
+ 
+OUR  RESULT STATISTICS:
+
+A. FOR NAIVE BAYES USING MULTINOMIAL EVENT SPACE
+ 
+1.Multinomial using add1 laplace smoothing:
+overall correctness =81%
+percentage of positive documents classified correctly = 74%
+percentage of negative documents classified correctly = 88%
+
+2.Multinomial using Dirichlet smoothing: (tunable parameter u=1000)
+overall correctness = 79.5%
+percentage of positive documents classified correctly = 74%
+percentage of negative documents classified correctly = 85%
+
+3.Multinomial using Dirichlet smoothing: (tunable parameter u=2000)
+overall correctness = 80%
+percentage of positive documents classified correctly = 75%
+percentage of negative documents classified correctly = 85%
+
+A. FOR NAIVE BAYES USING MULTIPLE BURNOULLI EVENT SPACE
+
+1. Multiple bernoulli using add 1 laplace:
+overall correctness = 71.05%
+percentage of positive documents classified correctly = 97%
+percentage of negative documents classified correctly = 46%
+
+2. Multiple bernoulli using Dirichlet smoothing: (tunable parameter u=1000)
+overall correctness = 72%
+percentage of positive documents classified correctly = 97%
+percentage of negative documents classified correctly = 47%
+
+3. Multiple bernoulli using Dirichlet smoothing: (tunable parameter u=2000)
+overall correctness = 71.5%
+percentage of positive documents classified correctly = 97%
+percentage of negative documents classified correctly = 46%
+
+CONCLUSIONS FROM ANALYSIS:
+
+a. From the results above we can easily say that the Multinomial model outperforms the Multiple bernoulli Model using both
+Add 1 Laplace and Dirichlet Smoothing techniques.
+b. This is because the Multinomial model takes into consideration term frequencies in the documents. 
+c. Term frequency is an important feature for retrieval and classification. The Multiple Bernoulli model does not consider term frequencies
+and hence shows less accurate results.
+d. Also Multiple bernoulli might work accurately on short documents because it is likely that many terms occur only once in short documents.
+However our developement repository consists of both short and long files.
+Hence Parameters like length of the document and term frequencies need to be considered which are not a part of the classification using Multiple Bernoulli.
+Thus it provides less accurate results when compared with Multinomial model.
+e. Different smoothing techniques used in our implementation, helped us to prevent zero probability problem.  
+

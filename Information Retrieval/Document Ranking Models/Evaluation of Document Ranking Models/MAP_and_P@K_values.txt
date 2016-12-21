@@ -1,0 +1,4 @@
+MAP for Search Engine : 0.4146752713701866
+P@20 for Query_id - 12 : 0.15
+P@20 for Query_id - 13 : 0.25
+P@20 for Query_id - 19 : 0.45

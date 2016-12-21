@@ -1,0 +1,3 @@
+overall correctness percent -> 79.5
+percent pos docs classified correctly -> 74.0
+percent neg docs classified correctly -> 85.0

@@ -1,0 +1,700 @@
+1	|	portabl oper system	|	3127	|	1	|	14.40476558610547	|	Sushil_PC
+1	|	portabl oper system	|	2246	|	2	|	10.43003385150113	|	Sushil_PC
+1	|	portabl oper system	|	1930	|	3	|	8.589933060437984	|	Sushil_PC
+1	|	portabl oper system	|	3196	|	4	|	8.381982796821983	|	Sushil_PC
+1	|	portabl oper system	|	3068	|	5	|	5.508354856092458	|	Sushil_PC
+1	|	portabl oper system	|	2593	|	6	|	5.460499308417991	|	Sushil_PC
+1	|	portabl oper system	|	2740	|	7	|	5.343020348527187	|	Sushil_PC
+1	|	portabl oper system	|	2319	|	8	|	5.3366264528653105	|	Sushil_PC
+1	|	portabl oper system	|	2379	|	9	|	5.189560999678649	|	Sushil_PC
+1	|	portabl oper system	|	1680	|	10	|	5.138557911555516	|	Sushil_PC
+1	|	portabl oper system	|	2629	|	11	|	5.058379875877375	|	Sushil_PC
+1	|	portabl oper system	|	1591	|	12	|	5.054557086251675	|	Sushil_PC
+1	|	portabl oper system	|	1462	|	13	|	5.008024632226972	|	Sushil_PC
+1	|	portabl oper system	|	1461	|	14	|	4.971087349183238	|	Sushil_PC
+1	|	portabl oper system	|	2632	|	15	|	4.9337722114527285	|	Sushil_PC
+1	|	portabl oper system	|	2597	|	16	|	4.869002536357964	|	Sushil_PC
+1	|	portabl oper system	|	2735	|	17	|	4.8336900240928555	|	Sushil_PC
+1	|	portabl oper system	|	2482	|	18	|	4.754621193124574	|	Sushil_PC
+1	|	portabl oper system	|	1236	|	19	|	4.749482962486368	|	Sushil_PC
+1	|	portabl oper system	|	2796	|	20	|	4.715008893588061	|	Sushil_PC
+1	|	portabl oper system	|	2424	|	21	|	4.714153921812834	|	Sushil_PC
+1	|	portabl oper system	|	1033	|	22	|	4.683888046705716	|	Sushil_PC
+1	|	portabl oper system	|	1755	|	23	|	4.63541333072643	|	Sushil_PC
+1	|	portabl oper system	|	1750	|	24	|	4.562782307764872	|	Sushil_PC
+1	|	portabl oper system	|	1472	|	25	|	4.557620222518619	|	Sushil_PC
+1	|	portabl oper system	|	2357	|	26	|	4.555950213978884	|	Sushil_PC
+1	|	portabl oper system	|	2541	|	27	|	4.55374334539259	|	Sushil_PC
+1	|	portabl oper system	|	2868	|	28	|	4.522006012028936	|	Sushil_PC
+1	|	portabl oper system	|	2317	|	29	|	4.482973819036097	|	Sushil_PC
+1	|	portabl oper system	|	2111	|	30	|	4.467231355530862	|	Sushil_PC
+1	|	portabl oper system	|	2920	|	31	|	4.445587652206751	|	Sushil_PC
+1	|	portabl oper system	|	2080	|	32	|	4.442129012839603	|	Sushil_PC
+1	|	portabl oper system	|	2867	|	33	|	4.433353680862928	|	Sushil_PC
+1	|	portabl oper system	|	1334	|	34	|	4.4257187387556085	|	Sushil_PC
+1	|	portabl oper system	|	1534	|	35	|	4.3925771004576015	|	Sushil_PC
+1	|	portabl oper system	|	1247	|	36	|	4.373088487921128	|	Sushil_PC
+1	|	portabl oper system	|	2840	|	37	|	4.369174440639496	|	Sushil_PC
+1	|	portabl oper system	|	1728	|	38	|	4.358606661313431	|	Sushil_PC
+1	|	portabl oper system	|	3025	|	39	|	4.346940775169382	|	Sushil_PC
+1	|	portabl oper system	|	2378	|	40	|	4.3027688795830645	|	Sushil_PC
+1	|	portabl oper system	|	2064	|	41	|	4.284737508178781	|	Sushil_PC
+1	|	portabl oper system	|	1519	|	42	|	4.27120433085334	|	Sushil_PC
+1	|	portabl oper system	|	2153	|	43	|	4.260618183906038	|	Sushil_PC
+1	|	portabl oper system	|	2798	|	44	|	4.207300948753132	|	Sushil_PC
+1	|	portabl oper system	|	1657	|	45	|	4.203269377756126	|	Sushil_PC
+1	|	portabl oper system	|	2126	|	46	|	4.196266248851002	|	Sushil_PC
+1	|	portabl oper system	|	2372	|	47	|	4.1881807103082345	|	Sushil_PC
+1	|	portabl oper system	|	1168	|	48	|	4.1483156351239225	|	Sushil_PC
+1	|	portabl oper system	|	1766	|	49	|	4.142685017973253	|	Sushil_PC
+1	|	portabl oper system	|	2399	|	50	|	4.13380336277134	|	Sushil_PC
+1	|	portabl oper system	|	1752	|	51	|	4.130664841537127	|	Sushil_PC
+1	|	portabl oper system	|	2320	|	52	|	4.128089100777457	|	Sushil_PC
+1	|	portabl oper system	|	3089	|	53	|	4.0960568938809	|	Sushil_PC
+1	|	portabl oper system	|	585	|	54	|	4.093307232647463	|	Sushil_PC
+1	|	portabl oper system	|	972	|	55	|	4.093307232647463	|	Sushil_PC
+1	|	portabl oper system	|	1912	|	56	|	4.0917475942035555	|	Sushil_PC
+1	|	portabl oper system	|	2069	|	57	|	4.083882754490783	|	Sushil_PC
+1	|	portabl oper system	|	322	|	58	|	4.077979530801342	|	Sushil_PC
+1	|	portabl oper system	|	2092	|	59	|	4.047563328570025	|	Sushil_PC
+1	|	portabl oper system	|	3174	|	60	|	4.023247564055803	|	Sushil_PC
+1	|	portabl oper system	|	1324	|	61	|	4.021641177847881	|	Sushil_PC
+1	|	portabl oper system	|	1902	|	62	|	3.9941177797320595	|	Sushil_PC
+1	|	portabl oper system	|	1853	|	63	|	3.9499063516569435	|	Sushil_PC
+1	|	portabl oper system	|	1264	|	64	|	3.9480441597292684	|	Sushil_PC
+1	|	portabl oper system	|	1747	|	65	|	3.9440659931557125	|	Sushil_PC
+1	|	portabl oper system	|	2218	|	66	|	3.9241970387190244	|	Sushil_PC
+1	|	portabl oper system	|	1938	|	67	|	3.9209580889887565	|	Sushil_PC
+1	|	portabl oper system	|	2777	|	68	|	3.9186640487216846	|	Sushil_PC
+1	|	portabl oper system	|	1071	|	69	|	3.9071151472404013	|	Sushil_PC
+1	|	portabl oper system	|	1163	|	70	|	3.882899718588713	|	Sushil_PC
+1	|	portabl oper system	|	1923	|	71	|	3.882899718588713	|	Sushil_PC
+1	|	portabl oper system	|	1749	|	72	|	3.878093502642109	|	Sushil_PC
+1	|	portabl oper system	|	3137	|	73	|	3.875409246589966	|	Sushil_PC
+1	|	portabl oper system	|	3087	|	74	|	3.836409137323619	|	Sushil_PC
+1	|	portabl oper system	|	1464	|	75	|	3.8138232037223525	|	Sushil_PC
+1	|	portabl oper system	|	1951	|	76	|	3.811538878553905	|	Sushil_PC
+1	|	portabl oper system	|	2950	|	77	|	3.8052903220852734	|	Sushil_PC
+1	|	portabl oper system	|	1533	|	78	|	3.8034234606741704	|	Sushil_PC
+1	|	portabl oper system	|	252	|	79	|	3.796289140923755	|	Sushil_PC
+1	|	portabl oper system	|	1108	|	80	|	3.795925214954096	|	Sushil_PC
+1	|	portabl oper system	|	202	|	81	|	3.789123430711286	|	Sushil_PC
+1	|	portabl oper system	|	1751	|	82	|	3.771957809035694	|	Sushil_PC
+1	|	portabl oper system	|	2219	|	83	|	3.764803699034754	|	Sushil_PC
+1	|	portabl oper system	|	2536	|	84	|	3.7615777534350805	|	Sushil_PC
+1	|	portabl oper system	|	1034	|	85	|	3.74695328474057	|	Sushil_PC
+1	|	portabl oper system	|	2151	|	86	|	3.7456821856402476	|	Sushil_PC
+1	|	portabl oper system	|	1924	|	87	|	3.743264032704412	|	Sushil_PC
+1	|	portabl oper system	|	2618	|	88	|	3.7238842687744094	|	Sushil_PC
+1	|	portabl oper system	|	2681	|	89	|	3.72114729986483	|	Sushil_PC
+1	|	portabl oper system	|	1226	|	90	|	3.6968531779329608	|	Sushil_PC
+1	|	portabl oper system	|	3023	|	91	|	3.6848478767107715	|	Sushil_PC
+1	|	portabl oper system	|	2624	|	92	|	3.673805909373442	|	Sushil_PC
+1	|	portabl oper system	|	2741	|	93	|	3.673805909373442	|	Sushil_PC
+1	|	portabl oper system	|	2065	|	94	|	3.6591067385261526	|	Sushil_PC
+1	|	portabl oper system	|	2105	|	95	|	3.641657916353507	|	Sushil_PC
+1	|	portabl oper system	|	2358	|	96	|	3.6319776657327014	|	Sushil_PC
+1	|	portabl oper system	|	1960	|	97	|	3.6266303566156055	|	Sushil_PC
+1	|	portabl oper system	|	1652	|	98	|	3.62294370302158	|	Sushil_PC
+1	|	portabl oper system	|	2621	|	99	|	3.595499699462545	|	Sushil_PC
+1	|	portabl oper system	|	2582	|	100	|	3.5837309785746614	|	Sushil_PC
+2	|	code optim for space effici	|	2530	|	1	|	12.210559012735867	|	Sushil_PC
+2	|	code optim for space effici	|	2748	|	2	|	11.935877785524932	|	Sushil_PC
+2	|	code optim for space effici	|	2491	|	3	|	11.728198156102666	|	Sushil_PC
+2	|	code optim for space effici	|	1947	|	4	|	11.019302002913852	|	Sushil_PC
+2	|	code optim for space effici	|	2559	|	5	|	10.097618906188483	|	Sushil_PC
+2	|	code optim for space effici	|	2897	|	6	|	9.962952988699424	|	Sushil_PC
+2	|	code optim for space effici	|	1795	|	7	|	9.700481325500517	|	Sushil_PC
+2	|	code optim for space effici	|	2495	|	8	|	9.634504699014345	|	Sushil_PC
+2	|	code optim for space effici	|	2033	|	9	|	9.157707265986847	|	Sushil_PC
+2	|	code optim for space effici	|	2856	|	10	|	8.67753787164864	|	Sushil_PC
+2	|	code optim for space effici	|	2863	|	11	|	8.514163750885468	|	Sushil_PC
+2	|	code optim for space effici	|	2680	|	12	|	8.450388039519959	|	Sushil_PC
+2	|	code optim for space effici	|	1886	|	13	|	8.185110004741368	|	Sushil_PC
+2	|	code optim for space effici	|	1807	|	14	|	8.139703590222423	|	Sushil_PC
+2	|	code optim for space effici	|	2716	|	15	|	8.0375477702624	|	Sushil_PC
+2	|	code optim for space effici	|	3080	|	16	|	8.020445908098628	|	Sushil_PC
+2	|	code optim for space effici	|	2701	|	17	|	7.964293112095153	|	Sushil_PC
+2	|	code optim for space effici	|	3005	|	18	|	7.913631252582458	|	Sushil_PC
+2	|	code optim for space effici	|	2586	|	19	|	7.798817522438143	|	Sushil_PC
+2	|	code optim for space effici	|	2537	|	20	|	7.74715882958481	|	Sushil_PC
+2	|	code optim for space effici	|	2801	|	21	|	7.74465474394273	|	Sushil_PC
+2	|	code optim for space effici	|	3129	|	22	|	7.728488461081736	|	Sushil_PC
+2	|	code optim for space effici	|	3113	|	23	|	7.654359179735167	|	Sushil_PC
+2	|	code optim for space effici	|	3033	|	24	|	7.564443749221637	|	Sushil_PC
+2	|	code optim for space effici	|	1901	|	25	|	7.499297432513806	|	Sushil_PC
+2	|	code optim for space effici	|	2834	|	26	|	7.473671835775222	|	Sushil_PC
+2	|	code optim for space effici	|	1223	|	27	|	7.437298697224049	|	Sushil_PC
+2	|	code optim for space effici	|	2944	|	28	|	7.324927160981361	|	Sushil_PC
+2	|	code optim for space effici	|	2598	|	29	|	7.289372078616148	|	Sushil_PC
+2	|	code optim for space effici	|	405	|	30	|	7.236359422388218	|	Sushil_PC
+2	|	code optim for space effici	|	2648	|	31	|	7.195413135614096	|	Sushil_PC
+2	|	code optim for space effici	|	3099	|	32	|	7.165324696110797	|	Sushil_PC
+2	|	code optim for space effici	|	2929	|	33	|	7.131035343074324	|	Sushil_PC
+2	|	code optim for space effici	|	2904	|	34	|	6.793028344835244	|	Sushil_PC
+2	|	code optim for space effici	|	1973	|	35	|	6.767716616165025	|	Sushil_PC
+2	|	code optim for space effici	|	3054	|	36	|	6.756585226672906	|	Sushil_PC
+2	|	code optim for space effici	|	3171	|	37	|	6.667410212456522	|	Sushil_PC
+2	|	code optim for space effici	|	2816	|	38	|	6.619172454424042	|	Sushil_PC
+2	|	code optim for space effici	|	3106	|	39	|	6.612924627968259	|	Sushil_PC
+2	|	code optim for space effici	|	2819	|	40	|	6.555349466579782	|	Sushil_PC
+2	|	code optim for space effici	|	1195	|	41	|	6.506615219189473	|	Sushil_PC
+2	|	code optim for space effici	|	2885	|	42	|	6.392387880017632	|	Sushil_PC
+2	|	code optim for space effici	|	3103	|	43	|	6.344613347875659	|	Sushil_PC
+2	|	code optim for space effici	|	1542	|	44	|	6.320098801003794	|	Sushil_PC
+2	|	code optim for space effici	|	2253	|	45	|	6.2186432702739625	|	Sushil_PC
+2	|	code optim for space effici	|	2623	|	46	|	6.173530983924731	|	Sushil_PC
+2	|	code optim for space effici	|	2490	|	47	|	6.074379397567867	|	Sushil_PC
+2	|	code optim for space effici	|	2855	|	48	|	6.024803045182076	|	Sushil_PC
+2	|	code optim for space effici	|	124	|	49	|	5.896806087292264	|	Sushil_PC
+2	|	code optim for space effici	|	1235	|	50	|	5.891655176446333	|	Sushil_PC
+2	|	code optim for space effici	|	940	|	51	|	5.823173309631376	|	Sushil_PC
+2	|	code optim for space effici	|	1552	|	52	|	5.797424354972836	|	Sushil_PC
+2	|	code optim for space effici	|	1694	|	53	|	5.777526001960572	|	Sushil_PC
+2	|	code optim for space effici	|	3057	|	54	|	5.673626001082208	|	Sushil_PC
+2	|	code optim for space effici	|	3053	|	55	|	5.665801518454094	|	Sushil_PC
+2	|	code optim for space effici	|	2220	|	56	|	5.643082272643527	|	Sushil_PC
+2	|	code optim for space effici	|	867	|	57	|	5.6136083575614	|	Sushil_PC
+2	|	code optim for space effici	|	2711	|	58	|	5.596512751862592	|	Sushil_PC
+2	|	code optim for space effici	|	2858	|	59	|	5.581122139677371	|	Sushil_PC
+2	|	code optim for space effici	|	2078	|	60	|	5.571662336630422	|	Sushil_PC
+2	|	code optim for space effici	|	2745	|	61	|	5.551212479817301	|	Sushil_PC
+2	|	code optim for space effici	|	2464	|	62	|	5.528542528770178	|	Sushil_PC
+2	|	code optim for space effici	|	2423	|	63	|	5.525441325189894	|	Sushil_PC
+2	|	code optim for space effici	|	1564	|	64	|	5.467233324842973	|	Sushil_PC
+2	|	code optim for space effici	|	3072	|	65	|	5.355223447693024	|	Sushil_PC
+2	|	code optim for space effici	|	2787	|	66	|	5.353861343718237	|	Sushil_PC
+2	|	code optim for space effici	|	2389	|	67	|	5.320216243342222	|	Sushil_PC
+2	|	code optim for space effici	|	1655	|	68	|	5.294160962871722	|	Sushil_PC
+2	|	code optim for space effici	|	3074	|	69	|	5.287843784411291	|	Sushil_PC
+2	|	code optim for space effici	|	1066	|	70	|	5.270541564603547	|	Sushil_PC
+2	|	code optim for space effici	|	2185	|	71	|	5.250804627276956	|	Sushil_PC
+2	|	code optim for space effici	|	1999	|	72	|	5.213358196752999	|	Sushil_PC
+2	|	code optim for space effici	|	1566	|	73	|	5.209650412311614	|	Sushil_PC
+2	|	code optim for space effici	|	2374	|	74	|	5.182887836040421	|	Sushil_PC
+2	|	code optim for space effici	|	1231	|	75	|	5.173607091069798	|	Sushil_PC
+2	|	code optim for space effici	|	3110	|	76	|	5.15190359966161	|	Sushil_PC
+2	|	code optim for space effici	|	2651	|	77	|	5.060865261343392	|	Sushil_PC
+2	|	code optim for space effici	|	1369	|	78	|	5.022497368040837	|	Sushil_PC
+2	|	code optim for space effici	|	1389	|	79	|	4.966168312542391	|	Sushil_PC
+2	|	code optim for space effici	|	2964	|	80	|	4.960546068697142	|	Sushil_PC
+2	|	code optim for space effici	|	1362	|	81	|	4.952407597870181	|	Sushil_PC
+2	|	code optim for space effici	|	849	|	82	|	4.9401189013137685	|	Sushil_PC
+2	|	code optim for space effici	|	48	|	83	|	4.92030061799207	|	Sushil_PC
+2	|	code optim for space effici	|	1670	|	84	|	4.907954652313113	|	Sushil_PC
+2	|	code optim for space effici	|	2346	|	85	|	4.885203990579143	|	Sushil_PC
+2	|	code optim for space effici	|	1134	|	86	|	4.880914521093942	|	Sushil_PC
+2	|	code optim for space effici	|	1756	|	87	|	4.867911927220826	|	Sushil_PC
+2	|	code optim for space effici	|	3169	|	88	|	4.864221396731637	|	Sushil_PC
+2	|	code optim for space effici	|	2857	|	89	|	4.862765211431876	|	Sushil_PC
+2	|	code optim for space effici	|	1651	|	90	|	4.859904924440403	|	Sushil_PC
+2	|	code optim for space effici	|	3067	|	91	|	4.857395830553016	|	Sushil_PC
+2	|	code optim for space effici	|	2006	|	92	|	4.850741848848075	|	Sushil_PC
+2	|	code optim for space effici	|	2835	|	93	|	4.845236671784258	|	Sushil_PC
+2	|	code optim for space effici	|	1652	|	94	|	4.844938579077493	|	Sushil_PC
+2	|	code optim for space effici	|	1172	|	95	|	4.8367703062300285	|	Sushil_PC
+2	|	code optim for space effici	|	2437	|	96	|	4.804067996445893	|	Sushil_PC
+2	|	code optim for space effici	|	2729	|	97	|	4.783255928480711	|	Sushil_PC
+2	|	code optim for space effici	|	3083	|	98	|	4.7592212894500125	|	Sushil_PC
+2	|	code optim for space effici	|	1088	|	99	|	4.759029994274436	|	Sushil_PC
+2	|	code optim for space effici	|	2888	|	100	|	4.756836861494009	|	Sushil_PC
+3	|	parallel algorithm	|	2714	|	1	|	6.518863892820776	|	Sushil_PC
+3	|	parallel algorithm	|	2664	|	2	|	6.361193328239626	|	Sushil_PC
+3	|	parallel algorithm	|	2973	|	3	|	6.358943029902417	|	Sushil_PC
+3	|	parallel algorithm	|	2785	|	4	|	6.098958382932746	|	Sushil_PC
+3	|	parallel algorithm	|	2685	|	5	|	5.992669482780828	|	Sushil_PC
+3	|	parallel algorithm	|	2433	|	6	|	5.966053299737788	|	Sushil_PC
+3	|	parallel algorithm	|	950	|	7	|	5.924532967885141	|	Sushil_PC
+3	|	parallel algorithm	|	1262	|	8	|	5.837367235321383	|	Sushil_PC
+3	|	parallel algorithm	|	2266	|	9	|	5.826888637979669	|	Sushil_PC
+3	|	parallel algorithm	|	2700	|	10	|	5.7427868185227124	|	Sushil_PC
+3	|	parallel algorithm	|	2896	|	11	|	5.734134995939526	|	Sushil_PC
+3	|	parallel algorithm	|	1158	|	12	|	5.690684095895541	|	Sushil_PC
+3	|	parallel algorithm	|	3075	|	13	|	5.6682837903755425	|	Sushil_PC
+3	|	parallel algorithm	|	1828	|	14	|	5.664123880858041	|	Sushil_PC
+3	|	parallel algorithm	|	3156	|	15	|	5.620738691215249	|	Sushil_PC
+3	|	parallel algorithm	|	1601	|	16	|	5.528016712254266	|	Sushil_PC
+3	|	parallel algorithm	|	1811	|	17	|	5.4988934740730055	|	Sushil_PC
+3	|	parallel algorithm	|	141	|	18	|	5.466124803833196	|	Sushil_PC
+3	|	parallel algorithm	|	392	|	19	|	5.371452115100625	|	Sushil_PC
+3	|	parallel algorithm	|	1302	|	20	|	5.371452115100625	|	Sushil_PC
+3	|	parallel algorithm	|	1613	|	21	|	5.31427745743464	|	Sushil_PC
+3	|	parallel algorithm	|	2182	|	22	|	5.191615674333436	|	Sushil_PC
+3	|	parallel algorithm	|	2660	|	23	|	5.148522487448754	|	Sushil_PC
+3	|	parallel algorithm	|	2557	|	24	|	5.102498609112697	|	Sushil_PC
+3	|	parallel algorithm	|	1367	|	25	|	5.064447245630476	|	Sushil_PC
+3	|	parallel algorithm	|	1795	|	26	|	4.983073777062326	|	Sushil_PC
+3	|	parallel algorithm	|	1468	|	27	|	4.9789906013884995	|	Sushil_PC
+3	|	parallel algorithm	|	2401	|	28	|	4.948010109371624	|	Sushil_PC
+3	|	parallel algorithm	|	2895	|	29	|	4.922871301137722	|	Sushil_PC
+3	|	parallel algorithm	|	2952	|	30	|	4.827927446854279	|	Sushil_PC
+3	|	parallel algorithm	|	2342	|	31	|	4.826592300376235	|	Sushil_PC
+3	|	parallel algorithm	|	2851	|	32	|	4.709326108197897	|	Sushil_PC
+3	|	parallel algorithm	|	2865	|	33	|	4.704774915593224	|	Sushil_PC
+3	|	parallel algorithm	|	3059	|	34	|	4.611498232649141	|	Sushil_PC
+3	|	parallel algorithm	|	3073	|	35	|	4.544178839441205	|	Sushil_PC
+3	|	parallel algorithm	|	2195	|	36	|	4.506452008798133	|	Sushil_PC
+3	|	parallel algorithm	|	46	|	37	|	4.46244687332227	|	Sushil_PC
+3	|	parallel algorithm	|	2289	|	38	|	4.453733646853855	|	Sushil_PC
+3	|	parallel algorithm	|	2570	|	39	|	4.4205671456462055	|	Sushil_PC
+3	|	parallel algorithm	|	2080	|	40	|	4.383603036510818	|	Sushil_PC
+3	|	parallel algorithm	|	2175	|	41	|	4.3526139710392995	|	Sushil_PC
+3	|	parallel algorithm	|	1846	|	42	|	4.272659883577466	|	Sushil_PC
+3	|	parallel algorithm	|	1569	|	43	|	4.234630366138442	|	Sushil_PC
+3	|	parallel algorithm	|	1747	|	44	|	4.139588183158981	|	Sushil_PC
+3	|	parallel algorithm	|	2838	|	45	|	4.06543980490309	|	Sushil_PC
+3	|	parallel algorithm	|	3044	|	46	|	4.0414876785081	|	Sushil_PC
+3	|	parallel algorithm	|	3194	|	47	|	3.8412581149713563	|	Sushil_PC
+3	|	parallel algorithm	|	2740	|	48	|	3.782180793577914	|	Sushil_PC
+3	|	parallel algorithm	|	2311	|	49	|	3.6816561550730333	|	Sushil_PC
+3	|	parallel algorithm	|	2727	|	50	|	3.659932158547652	|	Sushil_PC
+3	|	parallel algorithm	|	1854	|	51	|	3.6486892140058633	|	Sushil_PC
+3	|	parallel algorithm	|	1008	|	52	|	3.638463027580607	|	Sushil_PC
+3	|	parallel algorithm	|	1380	|	53	|	3.5550475134625743	|	Sushil_PC
+3	|	parallel algorithm	|	2060	|	54	|	3.412255035181046	|	Sushil_PC
+3	|	parallel algorithm	|	1200	|	55	|	3.3991877498281595	|	Sushil_PC
+3	|	parallel algorithm	|	2514	|	56	|	3.344206705479924	|	Sushil_PC
+3	|	parallel algorithm	|	1471	|	57	|	3.326272817860022	|	Sushil_PC
+3	|	parallel algorithm	|	1957	|	58	|	3.280411673605812	|	Sushil_PC
+3	|	parallel algorithm	|	3175	|	59	|	3.2489409953509965	|	Sushil_PC
+3	|	parallel algorithm	|	1554	|	60	|	3.222582865569266	|	Sushil_PC
+3	|	parallel algorithm	|	2114	|	61	|	3.172844175697651	|	Sushil_PC
+3	|	parallel algorithm	|	1341	|	62	|	3.156974588205189	|	Sushil_PC
+3	|	parallel algorithm	|	1603	|	63	|	3.1094951374164594	|	Sushil_PC
+3	|	parallel algorithm	|	1960	|	64	|	3.078627704372036	|	Sushil_PC
+3	|	parallel algorithm	|	1536	|	65	|	3.063422664677511	|	Sushil_PC
+3	|	parallel algorithm	|	2376	|	66	|	2.9192440688634074	|	Sushil_PC
+3	|	parallel algorithm	|	320	|	67	|	2.9055691397249426	|	Sushil_PC
+3	|	parallel algorithm	|	1959	|	68	|	2.9010501477770516	|	Sushil_PC
+3	|	parallel algorithm	|	2515	|	69	|	2.828364641422053	|	Sushil_PC
+3	|	parallel algorithm	|	2898	|	70	|	2.691251515281489	|	Sushil_PC
+3	|	parallel algorithm	|	2723	|	71	|	2.5903907586396047	|	Sushil_PC
+3	|	parallel algorithm	|	1325	|	72	|	2.5901079797586117	|	Sushil_PC
+3	|	parallel algorithm	|	3120	|	73	|	2.568655515161252	|	Sushil_PC
+3	|	parallel algorithm	|	2967	|	74	|	2.5475554898407973	|	Sushil_PC
+3	|	parallel algorithm	|	1409	|	75	|	2.3452723464548835	|	Sushil_PC
+3	|	parallel algorithm	|	2497	|	76	|	2.2598263317832994	|	Sushil_PC
+3	|	parallel algorithm	|	1928	|	77	|	2.165165383723907	|	Sushil_PC
+3	|	parallel algorithm	|	2692	|	78	|	1.979607673253225	|	Sushil_PC
+3	|	parallel algorithm	|	2430	|	79	|	0.639232853861655	|	Sushil_PC
+3	|	parallel algorithm	|	371	|	80	|	0.6351085070634519	|	Sushil_PC
+3	|	parallel algorithm	|	1559	|	81	|	0.6339063562203577	|	Sushil_PC
+3	|	parallel algorithm	|	2090	|	82	|	0.6269409249995455	|	Sushil_PC
+3	|	parallel algorithm	|	1539	|	83	|	0.6258202851259954	|	Sushil_PC
+3	|	parallel algorithm	|	2042	|	84	|	0.6207866304808157	|	Sushil_PC
+3	|	parallel algorithm	|	2146	|	85	|	0.6147372753493077	|	Sushil_PC
+3	|	parallel algorithm	|	199	|	86	|	0.6102516197103351	|	Sushil_PC
+3	|	parallel algorithm	|	2884	|	87	|	0.6079717401077693	|	Sushil_PC
+3	|	parallel algorithm	|	2630	|	88	|	0.6062745181123621	|	Sushil_PC
+3	|	parallel algorithm	|	2679	|	89	|	0.601872839637309	|	Sushil_PC
+3	|	parallel algorithm	|	2520	|	90	|	0.5995171497698625	|	Sushil_PC
+3	|	parallel algorithm	|	2767	|	91	|	0.5992419993806354	|	Sushil_PC
+3	|	parallel algorithm	|	2509	|	92	|	0.5974709960908257	|	Sushil_PC
+3	|	parallel algorithm	|	1560	|	93	|	0.5943590505121109	|	Sushil_PC
+3	|	parallel algorithm	|	1990	|	94	|	0.5943590505121109	|	Sushil_PC
+3	|	parallel algorithm	|	2348	|	95	|	0.5943590505121109	|	Sushil_PC
+3	|	parallel algorithm	|	2283	|	96	|	0.5934832657311467	|	Sushil_PC
+3	|	parallel algorithm	|	2417	|	97	|	0.5912793542851943	|	Sushil_PC
+3	|	parallel algorithm	|	1961	|	98	|	0.5896499109652239	|	Sushil_PC
+3	|	parallel algorithm	|	2863	|	99	|	0.5871329173466812	|	Sushil_PC
+3	|	parallel algorithm	|	2510	|	100	|	0.5852147252374927	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2914	|	1	|	7.240502702493499	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2032	|	2	|	7.205672941880573	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2454	|	3	|	7.092896491525964	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2276	|	4	|	7.0268484208240345	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1951	|	5	|	6.574612952712781	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2549	|	6	|	6.517926853685685	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1778	|	7	|	6.502653649454814	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2406	|	8	|	6.492416392834195	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1941	|	9	|	6.450894024416369	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1733	|	10	|	6.425349504053823	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2849	|	11	|	6.369097860457198	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	3148	|	12	|	6.351641045889227	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1944	|	13	|	6.35001809741558	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2090	|	14	|	6.337692412094644	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1894	|	15	|	6.300851229314088	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2949	|	16	|	6.298960724515856	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1716	|	17	|	6.276575057974108	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	3135	|	18	|	6.136713755734363	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	3082	|	19	|	6.132092941361395	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2926	|	20	|	6.130191645762083	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2212	|	21	|	6.0696376442654545	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2427	|	22	|	6.062482123096561	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	3137	|	23	|	6.029540180183338	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1987	|	24	|	5.935308841629312	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2123	|	25	|	5.935308841629312	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2649	|	26	|	5.930953947675586	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2565	|	27	|	5.9043655751577395	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2098	|	28	|	5.896386542070502	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1714	|	29	|	5.873751104506145	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2261	|	30	|	5.834140831426841	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2250	|	31	|	5.8136205715986025	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	241	|	32	|	5.79577877666881	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2259	|	33	|	5.783827191585886	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2057	|	34	|	5.725426298652805	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	3084	|	35	|	5.640873463764689	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2349	|	36	|	5.640050163716855	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2216	|	37	|	5.580820683280089	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2481	|	38	|	5.448919409557633	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1663	|	39	|	5.445986800132247	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	711	|	40	|	5.421509607384213	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1081	|	41	|	5.373307341165484	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1604	|	42	|	5.370525951441688	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2686	|	43	|	5.2859281047275575	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2578	|	44	|	5.212579310076342	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1157	|	45	|	5.188775178989742	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1583	|	46	|	5.188775178989742	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1918	|	47	|	5.188775178989742	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2816	|	48	|	5.176107641468732	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	3043	|	49	|	5.066566889433932	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1584	|	50	|	5.058484871992399	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1779	|	51	|	5.016496741973493	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1920	|	52	|	4.975199921588727	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2249	|	53	|	4.9559484927003155	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2334	|	54	|	4.855290703029199	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2548	|	55	|	4.855290703029199	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2025	|	56	|	4.816595161740115	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2333	|	57	|	4.7410254148743265	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	862	|	58	|	4.73960509762111	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1153	|	59	|	4.705934271134069	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1780	|	60	|	4.704122855959452	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	3119	|	61	|	4.69477245862939	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2667	|	62	|	4.682899147302225	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2313	|	63	|	4.647083708858978	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2371	|	64	|	4.640670077419469	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2566	|	65	|	4.632014743470036	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2798	|	66	|	4.6315249645941305	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2478	|	67	|	4.619726321505899	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	3072	|	68	|	4.5520527407845055	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2936	|	69	|	4.515538727834715	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2969	|	70	|	4.508469745261234	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2004	|	71	|	4.4965739540026055	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1003	|	72	|	4.496148937401872	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2402	|	73	|	4.476688654122621	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	954	|	74	|	4.468713388423037	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1431	|	75	|	4.429058285131342	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2187	|	76	|	4.3774590403300255	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	3131	|	77	|	4.370467158646373	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	52	|	78	|	4.36186955928449	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2828	|	79	|	4.319859591469964	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	88	|	80	|	4.293434208712566	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1514	|	81	|	4.2718205139422825	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1410	|	82	|	4.2638610126021925	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2176	|	83	|	4.25826373542282	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2718	|	84	|	4.239910985615013	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	3010	|	85	|	4.2383960704737085	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2078	|	86	|	4.221686584738013	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2457	|	87	|	4.204132976923832	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1305	|	88	|	4.161970729225693	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2802	|	89	|	4.144470111599526	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2547	|	90	|	4.1348554579949	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1997	|	91	|	4.131777788847337	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2767	|	92	|	4.128370945256978	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2081	|	93	|	4.113984368365234	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	3165	|	94	|	4.106254106833818	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2594	|	95	|	4.083824152483005	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2975	|	96	|	4.080857506585533	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2954	|	97	|	4.054023010847589	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	1569	|	98	|	4.024939078635496	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	2060	|	99	|	4.006626139524188	|	Sushil_PC
+4	|	distribut comput structur and algorithm	|	758	|	100	|	4.004599421843704	|	Sushil_PC
+5	|	appli stochast process	|	1696	|	1	|	8.907097565635556	|	Sushil_PC
+5	|	appli stochast process	|	268	|	2	|	8.080466472810679	|	Sushil_PC
+5	|	appli stochast process	|	1410	|	3	|	6.322933846379989	|	Sushil_PC
+5	|	appli stochast process	|	20	|	4	|	5.6025331571105985	|	Sushil_PC
+5	|	appli stochast process	|	1233	|	5	|	5.575412193487013	|	Sushil_PC
+5	|	appli stochast process	|	2882	|	6	|	5.521332080468029	|	Sushil_PC
+5	|	appli stochast process	|	2535	|	7	|	5.458948934772702	|	Sushil_PC
+5	|	appli stochast process	|	3020	|	8	|	5.440120142800649	|	Sushil_PC
+5	|	appli stochast process	|	1540	|	9	|	5.287375161305749	|	Sushil_PC
+5	|	appli stochast process	|	2065	|	10	|	5.226930984172691	|	Sushil_PC
+5	|	appli stochast process	|	1216	|	11	|	5.140353554078683	|	Sushil_PC
+5	|	appli stochast process	|	3120	|	12	|	5.039842971452424	|	Sushil_PC
+5	|	appli stochast process	|	1194	|	13	|	4.912400182867082	|	Sushil_PC
+5	|	appli stochast process	|	1359	|	14	|	4.771459833587779	|	Sushil_PC
+5	|	appli stochast process	|	1892	|	15	|	4.70163713029692	|	Sushil_PC
+5	|	appli stochast process	|	1468	|	16	|	4.603619004677449	|	Sushil_PC
+5	|	appli stochast process	|	293	|	17	|	4.582975792502448	|	Sushil_PC
+5	|	appli stochast process	|	927	|	18	|	4.5068934918457675	|	Sushil_PC
+5	|	appli stochast process	|	2523	|	19	|	4.485269110089133	|	Sushil_PC
+5	|	appli stochast process	|	3059	|	20	|	4.44035666715378	|	Sushil_PC
+5	|	appli stochast process	|	2844	|	21	|	4.397391390261582	|	Sushil_PC
+5	|	appli stochast process	|	1435	|	22	|	4.310376325460446	|	Sushil_PC
+5	|	appli stochast process	|	2742	|	23	|	4.2321743948109205	|	Sushil_PC
+5	|	appli stochast process	|	111	|	24	|	4.209143259203434	|	Sushil_PC
+5	|	appli stochast process	|	3030	|	25	|	4.1707458574348255	|	Sushil_PC
+5	|	appli stochast process	|	2396	|	26	|	4.145228938403629	|	Sushil_PC
+5	|	appli stochast process	|	1180	|	27	|	4.012967875526138	|	Sushil_PC
+5	|	appli stochast process	|	942	|	28	|	4.012967875526138	|	Sushil_PC
+5	|	appli stochast process	|	3153	|	29	|	3.999670709222957	|	Sushil_PC
+5	|	appli stochast process	|	1925	|	30	|	3.884390772478227	|	Sushil_PC
+5	|	appli stochast process	|	1637	|	31	|	3.7805643712802697	|	Sushil_PC
+5	|	appli stochast process	|	1438	|	32	|	3.758209847445139	|	Sushil_PC
+5	|	appli stochast process	|	1441	|	33	|	3.7318058460068917	|	Sushil_PC
+5	|	appli stochast process	|	78	|	34	|	3.7307051129694355	|	Sushil_PC
+5	|	appli stochast process	|	2000	|	35	|	3.656413989079216	|	Sushil_PC
+5	|	appli stochast process	|	2767	|	36	|	3.541467207248917	|	Sushil_PC
+5	|	appli stochast process	|	1563	|	37	|	3.5378216876875044	|	Sushil_PC
+5	|	appli stochast process	|	3165	|	38	|	3.5144092133805835	|	Sushil_PC
+5	|	appli stochast process	|	1235	|	39	|	3.5015969194404084	|	Sushil_PC
+5	|	appli stochast process	|	3013	|	40	|	3.4999152600787613	|	Sushil_PC
+5	|	appli stochast process	|	2137	|	41	|	3.4855403662537183	|	Sushil_PC
+5	|	appli stochast process	|	2453	|	42	|	3.4855403662537183	|	Sushil_PC
+5	|	appli stochast process	|	1051	|	43	|	3.4017110757085263	|	Sushil_PC
+5	|	appli stochast process	|	2705	|	44	|	3.3620830386370515	|	Sushil_PC
+5	|	appli stochast process	|	2727	|	45	|	3.3221483277577026	|	Sushil_PC
+5	|	appli stochast process	|	1028	|	46	|	3.301212863775327	|	Sushil_PC
+5	|	appli stochast process	|	2080	|	47	|	3.2952220796648883	|	Sushil_PC
+5	|	appli stochast process	|	3043	|	48	|	3.2907876790415393	|	Sushil_PC
+5	|	appli stochast process	|	2999	|	49	|	3.2819545860902797	|	Sushil_PC
+5	|	appli stochast process	|	2409	|	50	|	3.2812628439099636	|	Sushil_PC
+5	|	appli stochast process	|	1673	|	51	|	3.26155250111349	|	Sushil_PC
+5	|	appli stochast process	|	2210	|	52	|	3.2416476076945195	|	Sushil_PC
+5	|	appli stochast process	|	2252	|	53	|	3.196691587777087	|	Sushil_PC
+5	|	appli stochast process	|	1110	|	54	|	3.185023543997428	|	Sushil_PC
+5	|	appli stochast process	|	1707	|	55	|	3.185023543997428	|	Sushil_PC
+5	|	appli stochast process	|	1008	|	56	|	3.185023543997428	|	Sushil_PC
+5	|	appli stochast process	|	1631	|	57	|	3.166449179992625	|	Sushil_PC
+5	|	appli stochast process	|	1169	|	58	|	3.160970926198684	|	Sushil_PC
+5	|	appli stochast process	|	2185	|	59	|	3.1120035972818374	|	Sushil_PC
+5	|	appli stochast process	|	987	|	60	|	3.103411649088306	|	Sushil_PC
+5	|	appli stochast process	|	2203	|	61	|	3.102716976069943	|	Sushil_PC
+5	|	appli stochast process	|	1383	|	62	|	3.0942687722677085	|	Sushil_PC
+5	|	appli stochast process	|	2376	|	63	|	3.0820873712295285	|	Sushil_PC
+5	|	appli stochast process	|	1588	|	64	|	3.031149428102435	|	Sushil_PC
+5	|	appli stochast process	|	2174	|	65	|	3.0085426855086226	|	Sushil_PC
+5	|	appli stochast process	|	1382	|	66	|	2.9919643328923016	|	Sushil_PC
+5	|	appli stochast process	|	1886	|	67	|	2.9915981714826687	|	Sushil_PC
+5	|	appli stochast process	|	2342	|	68	|	2.9817816782468687	|	Sushil_PC
+5	|	appli stochast process	|	2836	|	69	|	2.959349775466195	|	Sushil_PC
+5	|	appli stochast process	|	1116	|	70	|	2.9433076928923456	|	Sushil_PC
+5	|	appli stochast process	|	3138	|	71	|	2.921564572939954	|	Sushil_PC
+5	|	appli stochast process	|	1671	|	72	|	2.921564572939954	|	Sushil_PC
+5	|	appli stochast process	|	1746	|	73	|	2.915711727836796	|	Sushil_PC
+5	|	appli stochast process	|	2912	|	74	|	2.9136942692210934	|	Sushil_PC
+5	|	appli stochast process	|	2307	|	75	|	2.901667868169983	|	Sushil_PC
+5	|	appli stochast process	|	2866	|	76	|	2.896208279943832	|	Sushil_PC
+5	|	appli stochast process	|	2953	|	77	|	2.8808416736419247	|	Sushil_PC
+5	|	appli stochast process	|	1678	|	78	|	2.8808416736419247	|	Sushil_PC
+5	|	appli stochast process	|	2251	|	79	|	2.8656372699956	|	Sushil_PC
+5	|	appli stochast process	|	1251	|	80	|	2.8435823798039057	|	Sushil_PC
+5	|	appli stochast process	|	1554	|	81	|	2.8209719932610806	|	Sushil_PC
+5	|	appli stochast process	|	1947	|	82	|	2.8209719932610806	|	Sushil_PC
+5	|	appli stochast process	|	2309	|	83	|	2.7916430831406935	|	Sushil_PC
+5	|	appli stochast process	|	2370	|	84	|	2.778672826473768	|	Sushil_PC
+5	|	appli stochast process	|	1748	|	85	|	2.771059953248327	|	Sushil_PC
+5	|	appli stochast process	|	1535	|	86	|	2.7635400758548325	|	Sushil_PC
+5	|	appli stochast process	|	414	|	87	|	2.753916944923947	|	Sushil_PC
+5	|	appli stochast process	|	1307	|	88	|	2.7421966860524267	|	Sushil_PC
+5	|	appli stochast process	|	2740	|	89	|	2.7412394815763736	|	Sushil_PC
+5	|	appli stochast process	|	2263	|	90	|	2.735386093835364	|	Sushil_PC
+5	|	appli stochast process	|	1439	|	91	|	2.7250921249015843	|	Sushil_PC
+5	|	appli stochast process	|	1570	|	92	|	2.7250921249015843	|	Sushil_PC
+5	|	appli stochast process	|	1809	|	93	|	2.7219776997988285	|	Sushil_PC
+5	|	appli stochast process	|	394	|	94	|	2.7177334716667243	|	Sushil_PC
+5	|	appli stochast process	|	2320	|	95	|	2.7109048155222624	|	Sushil_PC
+5	|	appli stochast process	|	1147	|	96	|	2.7084000015945264	|	Sushil_PC
+5	|	appli stochast process	|	3068	|	97	|	2.7084000015945264	|	Sushil_PC
+5	|	appli stochast process	|	95	|	98	|	2.694957086907064	|	Sushil_PC
+5	|	appli stochast process	|	141	|	99	|	2.6937832316284798	|	Sushil_PC
+5	|	appli stochast process	|	412	|	100	|	2.6937832316284798	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2318	|	1	|	17.17645829918767	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3048	|	2	|	13.178811529058137	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3089	|	3	|	11.902869959179505	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3119	|	4	|	11.68825232680813	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3070	|	5	|	11.473760606766152	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2984	|	6	|	10.951024256174538	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2542	|	7	|	10.860451207881512	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2319	|	8	|	10.810350005954447	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2741	|	9	|	10.791543251952342	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2452	|	10	|	10.403563537698851	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2894	|	11	|	10.201233047758398	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2882	|	12	|	9.82850264138461	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2862	|	13	|	9.666461053086987	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3136	|	14	|	9.624431586400242	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1653	|	15	|	9.538256794921708	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1938	|	16	|	9.32573916835368	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2988	|	17	|	9.135682639589264	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1518	|	18	|	9.12790727983385	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2571	|	19	|	9.096420814862508	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2859	|	20	|	8.20079307202918	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2535	|	21	|	8.160362804994946	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1827	|	22	|	8.149119395591335	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2522	|	23	|	8.096279802965851	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2669	|	24	|	7.99102269863991	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1719	|	25	|	7.806337010127014	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2245	|	26	|	7.571923540500161	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2711	|	27	|	7.5613509191274995	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1344	|	28	|	7.557169307478513	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2812	|	29	|	7.513235675432844	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1680	|	30	|	7.480856641679229	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2951	|	31	|	7.431450818537025	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3072	|	32	|	7.429663951517476	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2798	|	33	|	7.419575923037484	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2681	|	34	|	7.3893058971753405	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1698	|	35	|	7.313033024150254	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2892	|	36	|	7.2778313782972806	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3059	|	37	|	7.08234403897252	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1199	|	38	|	7.005913624939534	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2344	|	39	|	6.979789740843998	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1908	|	40	|	6.9330131985008	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1032	|	41	|	6.800003459822355	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1030	|	42	|	6.705001204877497	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1526	|	43	|	6.675491305911576	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1951	|	44	|	6.657924829728443	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2990	|	45	|	6.645571089915606	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1542	|	46	|	6.549889524618032	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2268	|	47	|	6.516614313226008	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1931	|	48	|	6.507477539197979	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1533	|	49	|	6.503660458814247	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2375	|	50	|	6.478352391475807	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1699	|	51	|	6.413404254902909	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2188	|	52	|	6.260778439451749	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2069	|	53	|	6.247581452137107	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3147	|	54	|	6.2325905154002985	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1572	|	55	|	6.208381340345451	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3028	|	56	|	6.1513806405457325	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2634	|	57	|	6.114310218553635	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2743	|	58	|	6.073683242058967	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3137	|	59	|	5.952215507599382	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1751	|	60	|	5.9221480048833905	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2372	|	61	|	5.905658638565333	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2286	|	62	|	5.897305228231214	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2624	|	63	|	5.86186304495706	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3068	|	64	|	5.814387426136334	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1957	|	65	|	5.67196301348398	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2560	|	66	|	5.646625875900949	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3169	|	67	|	5.627059354037098	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2720	|	68	|	5.581997461709657	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2017	|	69	|	5.521373730384155	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2679	|	70	|	5.386982727883106	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3088	|	71	|	5.379551344580557	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1892	|	72	|	5.3598108413173	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2840	|	73	|	5.289993364088846	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1308	|	74	|	5.254704500594377	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2048	|	75	|	5.221099282943367	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1805	|	76	|	5.1347175814955115	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1792	|	77	|	5.127657305221151	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2849	|	78	|	5.10864796005982	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1591	|	79	|	5.07583658475429	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1261	|	80	|	5.024164963778399	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2374	|	81	|	5.010916204527018	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2852	|	82	|	4.969405401106427	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2396	|	83	|	4.934661558604708	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3002	|	84	|	4.8843250218891034	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2668	|	85	|	4.853221066844991	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	436	|	86	|	4.805082800927441	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1912	|	87	|	4.795843916924587	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2965	|	88	|	4.75133341991852	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2561	|	89	|	4.737215865907915	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3026	|	90	|	4.732676975293329	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1695	|	91	|	4.720995380605988	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3168	|	92	|	4.7140605070245405	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2434	|	93	|	4.701811492122919	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	617	|	94	|	4.67777928421095	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2062	|	95	|	4.6767311646209535	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	2105	|	96	|	4.656989530013407	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1161	|	97	|	4.65685075000253	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3144	|	98	|	4.612596375943933	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	1441	|	99	|	4.599160844583028	|	Sushil_PC
+6	|	perform evalu and model of comput system	|	3016	|	100	|	4.57672434031077	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1811	|	1	|	12.130483878110484	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2714	|	2	|	10.633192881742204	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2973	|	3	|	10.600998921083832	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1613	|	4	|	10.473800410594993	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2664	|	5	|	10.424451367980971	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	3075	|	6	|	10.406960611833517	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	3156	|	7	|	10.327335627144674	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2967	|	8	|	10.072736407340553	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2278	|	9	|	9.222986332028825	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2114	|	10	|	8.956731048254758	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2288	|	11	|	8.951575572387116	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	891	|	12	|	8.789978315007575	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1699	|	13	|	8.780837712653687	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	3134	|	14	|	8.700494409988927	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1457	|	15	|	8.676488452463705	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2838	|	16	|	8.671522371733465	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1927	|	17	|	8.477390684621197	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2723	|	18	|	8.429063123977222	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	634	|	19	|	8.265621801609521	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1681	|	20	|	8.160855057727911	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1830	|	21	|	8.147140003497638	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2175	|	22	|	8.14545147711531	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1032	|	23	|	7.973516505382296	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	275	|	24	|	7.744919259225852	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	651	|	25	|	7.744919259225852	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2497	|	26	|	7.741980494354353	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	657	|	27	|	7.67899055643926	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2070	|	28	|	7.67899055643926	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2516	|	29	|	7.636431048811133	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2532	|	30	|	7.487771370028567	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2990	|	31	|	7.431911213807117	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2530	|	32	|	7.416016792813064	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2965	|	33	|	7.416016792813064	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2976	|	34	|	7.416016792813064	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1935	|	35	|	7.3855219729129455	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	239	|	36	|	7.36549625320625	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1831	|	37	|	7.36549625320625	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	3168	|	38	|	7.357840166693748	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	3012	|	39	|	7.340009829055052	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2140	|	40	|	7.325119174414086	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2631	|	41	|	7.246828788120962	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	3169	|	42	|	7.244182894450562	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1601	|	43	|	7.225124488207684	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2570	|	44	|	7.20580320996261	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	292	|	45	|	7.189392360475757	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2412	|	46	|	7.02151287117019	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2552	|	47	|	7.02151287117019	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2307	|	48	|	6.990619388814448	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2882	|	49	|	6.981044994275558	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1680	|	50	|	6.893754381668112	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2781	|	51	|	6.861294787751191	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2519	|	52	|	6.761384510641717	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1514	|	53	|	6.748445828961552	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1846	|	54	|	6.673446279586675	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1937	|	55	|	6.62880048718743	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2865	|	56	|	6.546613194914373	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2645	|	57	|	6.355387582647603	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1825	|	58	|	6.345319727813526	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1747	|	59	|	6.301627859435091	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2455	|	60	|	6.271099138540791	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1236	|	61	|	6.195066175858932	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2342	|	62	|	6.177631441609986	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1262	|	63	|	6.145978668487635	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2896	|	64	|	6.0655705140705125	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2685	|	65	|	5.992669482780828	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2388	|	66	|	5.99241981316291	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2785	|	67	|	5.99157832655193	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1725	|	68	|	5.972439008066727	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2311	|	69	|	5.941113839915428	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1788	|	70	|	5.928674170181136	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2561	|	71	|	5.927129739663673	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	82	|	72	|	5.920081972348552	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1675	|	73	|	5.918532717037144	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1359	|	74	|	5.910198307869509	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1959	|	75	|	5.8895261026617245	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2711	|	76	|	5.884066502009571	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2139	|	77	|	5.879272659034422	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2160	|	78	|	5.860912500360342	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1828	|	79	|	5.836094964984232	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	950	|	80	|	5.827206510877683	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1742	|	81	|	5.823906192257016	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2433	|	82	|	5.758213046158269	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1527	|	83	|	5.745196229585426	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2700	|	84	|	5.7427868185227124	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2543	|	85	|	5.702319377913953	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1158	|	86	|	5.690684095895541	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2258	|	87	|	5.656609032076446	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	655	|	88	|	5.6213596879910845	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1665	|	89	|	5.610965301422091	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2846	|	90	|	5.590484249301249	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1627	|	91	|	5.539317165240945	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2947	|	92	|	5.536951170631991	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2493	|	93	|	5.534380594619592	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2266	|	94	|	5.474325076366153	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1652	|	95	|	5.469552331575807	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	141	|	96	|	5.466124803833196	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1929	|	97	|	5.430565530914258	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2832	|	98	|	5.397463764733186	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	1988	|	99	|	5.395770350625188	|	Sushil_PC
+7	|	parallel processor in inform retriev	|	2575	|	100	|	5.393414846260946	|	Sushil_PC
